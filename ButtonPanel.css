@@ -1,0 +1,16 @@
+.button-row {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.button-row .component-button {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.button-row .component-button.wide {
+  flex: 2;
+}
