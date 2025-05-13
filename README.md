@@ -41,8 +41,7 @@ The original app is a simple calculator built with React. It supports:
 ---
 
 ### 3. Scientific Mode
-- Adds trigonometric, logarithmic, and square root functions:
-  - `sin`, `cos`, `tan`, `log`, `√`, and `^`
+- Adds trigonometric, logarithmic, and square root functions
 - Users can toggle scientific mode on and off as needed.
 
 ---
